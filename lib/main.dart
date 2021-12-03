@@ -1,7 +1,7 @@
-import 'package:aris_news/blocs/newsbloc/news_bloc.dart';
-import 'package:aris_news/blocs/newsbloc/news_states.dart';
-import 'package:aris_news/repositories/news_repository.dart';
-import 'package:aris_news/views/splash_screen.dart';
+import 'package:aris_news/aris/blocs/newsbloc/news_bloc.dart';
+import 'package:aris_news/aris/blocs/newsbloc/news_states.dart';
+import 'package:aris_news/aris/repositories/news_repository.dart';
+import 'package:aris_news/aris/views/splash_screen.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:google_fonts/google_fonts.dart';

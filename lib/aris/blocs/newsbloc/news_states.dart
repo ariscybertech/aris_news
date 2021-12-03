@@ -1,4 +1,4 @@
-import 'package:aris_news/models/article_model.dart';
+import 'package:aris_news/aris/models/article_model.dart';
 import 'package:equatable/equatable.dart';
 import 'package:flutter/foundation.dart';
 
