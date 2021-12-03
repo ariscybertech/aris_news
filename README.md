@@ -1,3 +1,5 @@
+# Flutter ArisNews Application
+![Mobile Screenshot3](screenshots/screenvideo.gif)
 
 ## Getting Started
 
