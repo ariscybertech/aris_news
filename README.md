@@ -11,6 +11,8 @@ $ flutter packages get
 
 Run the application and enjoy :tada: :rainbow:
 
+<a href="https://www.buymeacoffee.com/ariscybertech"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="60"></a>
+
 ArisNews is the award-winning news app downloaded by 40+ million readers in 100+ countries!
 
 ArisNews analyzes millions of articles every day to deliver the top trending news stories influencing the world right now.
