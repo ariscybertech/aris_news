@@ -1,4 +1,16 @@
 # Flutter ArisNews Application
+
+<h1 align="center">Aris Maps</h1>
+
+<br />
+ 
+<p align="center">
+  <img alt="app-store" src="https://github.com/plante-app-team/plante/blob/master/readme_resources/app-store.png" />
+  <img alt="google-play" src="https://github.com/plante-app-team/plante/blob/master/readme_resources/play-store.png" />
+</p>
+
+<br />
+
 ![MobileScreenshotGif](screenshots/screenvideo.gif)
 ![MobileScreenshot](screenshots/screenshot.png)
 
