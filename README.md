@@ -1,6 +1,4 @@
-# Flutter ArisNews Application
-
-<h1 align="center">Aris Maps</h1>
+<h1 align="center">Aris News</h1>
 
 <br />
  
