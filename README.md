@@ -4,7 +4,9 @@
  
 <p align="center">
   <img alt="app-store" src="https://github.com/ariscybertech/ariscybertech/blob/main/publish/app-store.png" />
-  <img alt="google-play" src="https://github.com/ariscybertech/ariscybertech/blob/main/publish/play-store.png" />
+  <a href="https://play.google.com/store/apps/details?id=com.arissoft.aris_news">
+    <img alt="google-play" src="https://github.com/ariscybertech/ariscybertech/blob/main/publish/play-store.png" />
+ </a>
 </p>
 
 <br />
