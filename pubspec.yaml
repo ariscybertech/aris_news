@@ -25,8 +25,8 @@ dependencies:
     sdk: flutter
   google_fonts: ^2.1.0
   http: ^0.13.3
-  flutter_bloc: ^7.0.0
-  equatable: ^2.0.2
+  flutter_bloc: ^8.0.0
+  equatable: ^2.0.3
   flutter_web_browser: ^0.14.0
 
 
