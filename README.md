@@ -1,7 +1,7 @@
 <h1 align="center">Aris News</h1>
 
 <br />
- 
+  
 <p align="center">
   <img alt="app-store" src="https://github.com/ariscybertech/ariscybertech/blob/main/publish/app-store.png" />
   <a href="https://play.google.com/store/apps/details?id=com.arissoft.aris_news">
